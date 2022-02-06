@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Tutti i progetti)">e3efc4c1872d85506ac0337d0ebb3553</button>
+        <button_parent_table>x_snc_co2web_projects</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>objective</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>list</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Objective</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>objective</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-06 13:00:47</sys_created_on>
+        <sys_id>2befc4c1872d85506ac0337d0ebb355a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Objective</sys_name>
+        <sys_package display_value="CO2web" source="x_snc_co2web">499bc8c987e985506ac0337d0ebb35f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CO2web">499bc8c987e985506ac0337d0ebb35f0</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_2befc4c1872d85506ac0337d0ebb355a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-06 13:00:47</sys_updated_on>
+        <table_name>x_snc_co2web_projects</table_name>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=2befc4c1872d85506ac0337d0ebb355a"/>
+</record_update>

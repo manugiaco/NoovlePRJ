@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Co2web 1644151348051</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snc_co2web_1644151348051</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">959634f3871330106ac0337d0ebb35b2</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-06 12:42:28</sys_created_on>
+        <sys_id>5bbb000d87e985506ac0337d0ebb35af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Co2web 1644151348051</sys_name>
+        <sys_package display_value="CO2web" source="x_snc_co2web">499bc8c987e985506ac0337d0ebb35f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CO2web">499bc8c987e985506ac0337d0ebb35f0</sys_scope>
+        <sys_update_name>sys_db_object_5bbb000d87e985506ac0337d0ebb35af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-06 12:42:28</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CO2web">499bc8c987e985506ac0337d0ebb35f0</application>
+        <file_path/>
+        <instance_id>6eb338bfdbdbf8100ae3ac44d4961951</instance_id>
+        <instance_name>manugdemoaes</instance_name>
+        <name>sys_db_object_5bbb000d87e985506ac0337d0ebb35af</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Co2web 1644151348051</label><live_feed_enabled>false</live_feed_enabled><name>x_snc_co2web_1644151348051</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">959634f3871330106ac0337d0ebb35b2</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-06 12:42:28</sys_created_on><sys_id>5bbb000d87e985506ac0337d0ebb35af</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Co2web 1644151348051</sys_name><sys_package display_value="CO2web" source="x_snc_co2web">499bc8c987e985506ac0337d0ebb35f0</sys_package><sys_policy/><sys_scope display_value="CO2web">499bc8c987e985506ac0337d0ebb35f0</sys_scope><sys_update_name>sys_db_object_5bbb000d87e985506ac0337d0ebb35af</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-06 12:42:28</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>931804061</payload_hash>
+        <record_name>Co2web 1644151348051</record_name>
+        <reverted_from/>
+        <source>899bc8c987e985506ac0337d0ebb35f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-06 12:42:29</sys_created_on>
+        <sys_id>e7bb000d87e985506ac0337d0ebb35d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ecf0e9ffa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-06 12:42:29</sys_updated_on>
+        <type>Table</type>
+        <update_guid>63bb000dcae985508a5853f7e2ea91d2</update_guid>
+        <update_guid_history>63bb000dcae985508a5853f7e2ea91d2:931804061</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-06 12:44:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>94382bf5092f49408c4a8dfb55228ae9</sys_id>
+        <sys_metadata>5bbb000d87e985506ac0337d0ebb35af</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Co2web 1644151348051</sys_name>
+        <sys_package display_value="CO2web" source="x_snc_co2web">499bc8c987e985506ac0337d0ebb35f0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CO2web">499bc8c987e985506ac0337d0ebb35f0</sys_scope>
+        <sys_scope_delete display_value="">0e0411c7d9cb4474810402aabb2ffab9</sys_scope_delete>
+        <sys_update_name>sys_db_object_5bbb000d87e985506ac0337d0ebb35af</sys_update_name>
+        <sys_update_version display_value="sys_db_object_5bbb000d87e985506ac0337d0ebb35af">e7bb000d87e985506ac0337d0ebb35d2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-06 12:44:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

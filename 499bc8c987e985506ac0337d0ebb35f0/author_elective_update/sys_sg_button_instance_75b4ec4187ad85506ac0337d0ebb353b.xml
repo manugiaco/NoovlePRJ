@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Edit project">f36be04d87ad85506ac0337d0ebb35a6</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Modifica</label>
+        <location>footer</location>
+        <name>Modifica</name>
+        <order/>
+        <parent>d3ef84c1872d85506ac0337d0ebb35d9</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-06 14:31:36</sys_created_on>
+        <sys_id>75b4ec4187ad85506ac0337d0ebb353b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Modifica</sys_name>
+        <sys_package display_value="CO2web" source="x_snc_co2web">499bc8c987e985506ac0337d0ebb35f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CO2web">499bc8c987e985506ac0337d0ebb35f0</sys_scope>
+        <sys_update_name>sys_sg_button_instance_75b4ec4187ad85506ac0337d0ebb353b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-06 15:02:26</sys_updated_on>
+        <table>x_snc_co2web_projects</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=75b4ec4187ad85506ac0337d0ebb353b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CO2web">499bc8c987e985506ac0337d0ebb35f0</application>
+        <file_path/>
+        <instance_id>6eb338bfdbdbf8100ae3ac44d4961951</instance_id>
+        <instance_name>manugdemoaes</instance_name>
+        <name>sys_sg_button_instance_75b4ec4187ad85506ac0337d0ebb353b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Edit project">f36be04d87ad85506ac0337d0ebb35a6</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Modifica</label><location>footer</location><name>Modifica</name><order/><parent>d3ef84c1872d85506ac0337d0ebb35d9</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-06 14:31:36</sys_created_on><sys_id>75b4ec4187ad85506ac0337d0ebb353b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Modifica</sys_name><sys_package display_value="CO2web" source="x_snc_co2web">499bc8c987e985506ac0337d0ebb35f0</sys_package><sys_policy/><sys_scope display_value="CO2web">499bc8c987e985506ac0337d0ebb35f0</sys_scope><sys_update_name>sys_sg_button_instance_75b4ec4187ad85506ac0337d0ebb353b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-06 15:02:26</sys_updated_on><table>x_snc_co2web_projects</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=75b4ec4187ad85506ac0337d0ebb353b"/></record_update>]]></payload>
+        <payload_hash>499169897</payload_hash>
+        <record_name>Modifica</record_name>
+        <reverted_from/>
+        <source>899bc8c987e985506ac0337d0ebb35f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-06 15:02:26</sys_created_on>
+        <sys_id>69cb244d87ad85506ac0337d0ebb358e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ecf8ec0640000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-06 15:02:26</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>adcb244d96ad8550b3072e3a910e3d8d</update_guid>
+        <update_guid_history>adcb244d96ad8550b3072e3a910e3d8d:499169897,bdb4ec4128ad85502d9029c1fa93423d:-1981972172</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-06 15:06:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>12f2ba11414a472ca07399529baae699</sys_id>
+        <sys_metadata>75b4ec4187ad85506ac0337d0ebb353b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Modifica</sys_name>
+        <sys_package display_value="CO2web" source="x_snc_co2web">499bc8c987e985506ac0337d0ebb35f0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CO2web">499bc8c987e985506ac0337d0ebb35f0</sys_scope>
+        <sys_scope_delete display_value="">0e0411c7d9cb4474810402aabb2ffab9</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_75b4ec4187ad85506ac0337d0ebb353b</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_75b4ec4187ad85506ac0337d0ebb353b">69cb244d87ad85506ac0337d0ebb358e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-06 15:06:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

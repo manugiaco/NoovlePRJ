@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="CO2web">cbef84c1872d85506ac0337d0ebb3553</applet_launcher>
+        <icon display_value="Project Status">47ef84c1872d85506ac0337d0ebb3552</icon>
+        <label>CO2web</label>
+        <roles/>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-06 13:00:45</sys_created_on>
+        <sys_id>cbef84c1872d85506ac0337d0ebb3554</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CO2web</sys_name>
+        <sys_package display_value="CO2web" source="x_snc_co2web">499bc8c987e985506ac0337d0ebb35f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CO2web">499bc8c987e985506ac0337d0ebb35f0</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_cbef84c1872d85506ac0337d0ebb3554</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-06 13:00:45</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

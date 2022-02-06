@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>5fef84c1872d85506ac0337d0ebb35d6,286058c1872d85506ac0337d0ebb3516</applets>
+        <data_item/>
+        <display_feed_count>true</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_hidden_preference_name/>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-06 13:00:47</sys_created_on>
+        <sys_id>efefc4c1872d85506ac0337d0ebb3580</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Projects</sys_name>
+        <sys_package display_value="CO2web" source="x_snc_co2web">499bc8c987e985506ac0337d0ebb35f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CO2web">499bc8c987e985506ac0337d0ebb35f0</sys_scope>
+        <sys_update_name>sys_sg_icon_section_efefc4c1872d85506ac0337d0ebb3580</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-06 14:51:07</sys_updated_on>
+        <table/>
+        <title>Projects</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>

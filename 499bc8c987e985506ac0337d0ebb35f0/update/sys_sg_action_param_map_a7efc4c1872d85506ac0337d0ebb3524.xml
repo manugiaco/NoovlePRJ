@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Tutti i progetti)">17efc4c1872d85506ac0337d0ebb350a</button>
+        <item_parameter display_value="Tutti i progetti name">13ef84c1872d85506ac0337d0ebb35ea</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-06 13:00:46</sys_created_on>
+        <sys_id>a7efc4c1872d85506ac0337d0ebb3524</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>13ef84c1872d85506ac0337d0ebb35ea</sys_name>
+        <sys_package display_value="CO2web" source="x_snc_co2web">499bc8c987e985506ac0337d0ebb35f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CO2web">499bc8c987e985506ac0337d0ebb35f0</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_a7efc4c1872d85506ac0337d0ebb3524</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-06 13:00:46</sys_updated_on>
+        <ui_parameter display_value="Name">53efc4c1872d85506ac0337d0ebb350f</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
